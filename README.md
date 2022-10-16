@@ -1,5 +1,7 @@
 # Week-4-Assignment
 
+<img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-4-assignment-yamanf/blob/main/screenshoot.png" title="Screenshoot">
+
 1. https://openweathermap.org/api kullanılarak bir hava durumu uygulaması geliştirilecektir. 2. https://marvelapp.com/prototype/70f2bha/screen/78478137 Buradan mockup ekranlarına bakabilirsiniz.
 3. OpenWeatherMap’ten alınan API key’in girildiği ekran. Sonraki sayfada çağrılacak hava durumu web servisi bu API key değerini kullanacaktır.
 4. Test için kullanılacak API Key: 8ddadecc7ae4f56fee73b2b405a63659
